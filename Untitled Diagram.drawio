@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.1">
   <diagram name="Page-1" id="qLuCCpbJN-aaw5hV-l8X">
-    <mxGraphModel dx="989" dy="1434" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="530" dy="1400" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -112,6 +112,9 @@
               <mxPoint x="610" y="-680" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="K1gE3kfEb24jbkrRVwB1-47" value="&lt;h1 style=&quot;box-sizing: inherit; margin: 1.19em 0px 32px; font-family: sohne, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; color: rgb(36, 36, 36); line-height: 52px; letter-spacing: -0.011em; text-align: start; background-color: rgb(255, 255, 255);&quot; data-selectable-paragraph=&quot;&quot; data-testid=&quot;storyTitle&quot; class=&quot;pw-post-title gu gv gw bf gx gy gz ha hb hc hd he hf hg hh hi hj hk hl hm hn ho hp hq hr hs ht hu hv hw bk&quot; id=&quot;d9da&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Two-Tier Architecture in AWS&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="297" y="-1042" width="299" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

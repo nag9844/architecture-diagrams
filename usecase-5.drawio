@@ -55,6 +55,12 @@
         <mxCell id="KU1QNiQ9F2yr2tfShmG7-21" value="Upload Resized Image" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="510" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="KU1QNiQ9F2yr2tfShmG7-22" value="Send to Subscribers" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="800" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KU1QNiQ9F2yr2tfShmG7-23" value="Email/Other&amp;nbsp;Subscribers" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="940" width="135" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

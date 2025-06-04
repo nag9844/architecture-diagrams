@@ -41,7 +41,7 @@
           <mxGeometry x="289.14" y="730" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="KU1QNiQ9F2yr2tfShmG7-11" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#DD344C;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.email;" vertex="1" parent="1">
-          <mxGeometry x="290.43" y="870" width="79.14" height="70" as="geometry" />
+          <mxGeometry x="289.14" y="900" width="79.14" height="70" as="geometry" />
         </mxCell>
         <mxCell id="KU1QNiQ9F2yr2tfShmG7-18" value="S3 (Source)&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="200" width="60" height="30" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry x="335" y="830" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KU1QNiQ9F2yr2tfShmG7-23" value="Email/Other&amp;nbsp;Subscribers" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="940" width="135" height="30" as="geometry" />
+          <mxGeometry x="269.57" y="980" width="135" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KU1QNiQ9F2yr2tfShmG7-24" value="User uploads&amp;nbsp;Original Image" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="325" y="130" width="175" height="30" as="geometry" />
@@ -69,6 +69,9 @@
         </mxCell>
         <mxCell id="KU1QNiQ9F2yr2tfShmG7-26" value="Publish Notification" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="660" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KU1QNiQ9F2yr2tfShmG7-27" value="AWS Cloud" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="120" width="430" height="740" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -67,11 +67,23 @@
         <mxCell id="Zp7dWR0NVQhhBhnnboCU-17" value="EC2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Zp7dWR0NVQhhBhnnboCU-1">
           <mxGeometry x="600" y="250" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Zp7dWR0NVQhhBhnnboCU-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Zp7dWR0NVQhhBhnnboCU-1" source="Zp7dWR0NVQhhBhnnboCU-18" target="Zp7dWR0NVQhhBhnnboCU-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Zp7dWR0NVQhhBhnnboCU-18" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.iam;fillColor=#759C3E;gradientColor=none;" vertex="1" parent="Zp7dWR0NVQhhBhnnboCU-1">
-          <mxGeometry x="410" y="10" width="52" height="50" as="geometry" />
+          <mxGeometry x="210" y="200" width="52" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Zp7dWR0NVQhhBhnnboCU-23" value="IAM role" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Zp7dWR0NVQhhBhnnboCU-1">
+          <mxGeometry x="140" y="200" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Zp7dWR0NVQhhBhnnboCU-12" value="&lt;b&gt;&lt;span style=&quot;font-size:12.0pt;line-height:115%;&lt;br/&gt;font-family:&amp;quot;Aptos&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&lt;br/&gt;Aptos;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Automated&lt;br/&gt;EC2 Instance Management&lt;/span&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="70" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zp7dWR0NVQhhBhnnboCU-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.444;entryY=0.063;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Zp7dWR0NVQhhBhnnboCU-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="360" as="sourcePoint" />
+            <mxPoint x="450" y="330" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

@@ -52,11 +52,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zp7dWR0NVQhhBhnnboCU-13" value="Lambda" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Zp7dWR0NVQhhBhnnboCU-1">
-          <mxGeometry x="319" y="138" width="60" height="30" as="geometry" />
+        <mxCell id="Zp7dWR0NVQhhBhnnboCU-13" value="Lambda function" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Zp7dWR0NVQhhBhnnboCU-1">
+          <mxGeometry x="294.5" y="140" width="121" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Zp7dWR0NVQhhBhnnboCU-14" value="Lambda" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Zp7dWR0NVQhhBhnnboCU-1">
-          <mxGeometry x="319" y="350" width="60" height="30" as="geometry" />
+        <mxCell id="Zp7dWR0NVQhhBhnnboCU-14" value="Lambda function" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Zp7dWR0NVQhhBhnnboCU-1">
+          <mxGeometry x="294.5" y="350" width="111" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Zp7dWR0NVQhhBhnnboCU-15" value="Cloud watch Event" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Zp7dWR0NVQhhBhnnboCU-1">
           <mxGeometry x="99" y="140" width="81" height="30" as="geometry" />

@@ -134,7 +134,7 @@
           <mxGeometry x="56" y="256" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3c9Dz0hG7qSsmAkLmXXz-42" value="ECS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3c9Dz0hG7qSsmAkLmXXz-1">
-          <mxGeometry x="176" y="250" width="60" height="30" as="geometry" />
+          <mxGeometry x="176" y="260" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3c9Dz0hG7qSsmAkLmXXz-43" value="Fargate" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3c9Dz0hG7qSsmAkLmXXz-1">
           <mxGeometry x="286" y="255.14999999999998" width="60" height="30" as="geometry" />

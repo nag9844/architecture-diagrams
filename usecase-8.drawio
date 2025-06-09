@@ -26,7 +26,7 @@
           <mxGeometry x="20" y="410" width="130" height="200" as="geometry" />
         </mxCell>
         <mxCell id="3c9Dz0hG7qSsmAkLmXXz-4" value="Private subnet" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#00A4A6;fillColor=#E6F6F7;verticalAlign=top;align=left;spacingLeft=30;fontColor=#147EBA;dashed=0;" vertex="1" parent="3c9Dz0hG7qSsmAkLmXXz-1">
-          <mxGeometry x="240" y="20" width="230" height="190" as="geometry" />
+          <mxGeometry x="240" y="30" width="230" height="180" as="geometry" />
         </mxCell>
         <mxCell id="3c9Dz0hG7qSsmAkLmXXz-10" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.ecs_elastic_compute_service;" vertex="1" parent="3c9Dz0hG7qSsmAkLmXXz-4">
           <mxGeometry x="85.28" y="103.14" width="44.3" height="41.29" as="geometry" />

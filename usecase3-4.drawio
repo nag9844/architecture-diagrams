@@ -70,7 +70,7 @@
           <mxGeometry x="70" y="260" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d8SPQzkmyyUYfeaQxzHY-37" value="Security group" style="fillColor=none;strokeColor=#DD3522;verticalAlign=top;fontStyle=0;fontColor=#DD3522;whiteSpace=wrap;html=1;" parent="d8SPQzkmyyUYfeaQxzHY-18" vertex="1">
-          <mxGeometry x="102" y="393" width="340" height="110" as="geometry" />
+          <mxGeometry x="130" y="155" width="340" height="110" as="geometry" />
         </mxCell>
         <mxCell id="d8SPQzkmyyUYfeaQxzHY-31" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.application_load_balancer;fillColor=#F58534;gradientColor=none;" parent="d8SPQzkmyyUYfeaQxzHY-18" vertex="1">
           <mxGeometry x="265" y="170" width="50" height="50" as="geometry" />

@@ -58,12 +58,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KVEA8b8nSb7B48SDveHv-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="iR5fbzh18XWzhFeELOyl-5" source="KVEA8b8nSb7B48SDveHv-6" target="KVEA8b8nSb7B48SDveHv-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="230" as="sourcePoint" />
-            <mxPoint x="330" y="180" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="iR5fbzh18XWzhFeELOyl-10" value="Private subnet" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#00A4A6;fillColor=#E6F6F7;verticalAlign=top;align=left;spacingLeft=30;fontColor=#147EBA;dashed=0;" parent="iR5fbzh18XWzhFeELOyl-5" vertex="1">
           <mxGeometry x="450" y="270" width="140" height="110" as="geometry" />
         </mxCell>
@@ -91,8 +85,14 @@
         <mxCell id="KVEA8b8nSb7B48SDveHv-20" value="Secret Manager" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="iR5fbzh18XWzhFeELOyl-5">
           <mxGeometry x="285" y="520" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KVEA8b8nSb7B48SDveHv-19" value="Security group" style="fillColor=none;strokeColor=#DD3522;verticalAlign=top;fontStyle=0;fontColor=#DD3522;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="530" width="530" height="90" as="geometry" />
+        <mxCell id="KVEA8b8nSb7B48SDveHv-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="iR5fbzh18XWzhFeELOyl-5" source="KVEA8b8nSb7B48SDveHv-2" target="KVEA8b8nSb7B48SDveHv-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="160" as="sourcePoint" />
+            <mxPoint x="330" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KVEA8b8nSb7B48SDveHv-19" value="Security group" style="fillColor=none;strokeColor=#DD3522;verticalAlign=top;fontStyle=0;fontColor=#DD3522;whiteSpace=wrap;html=1;" vertex="1" parent="iR5fbzh18XWzhFeELOyl-5">
+          <mxGeometry x="50" y="290" width="530" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

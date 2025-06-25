@@ -47,7 +47,7 @@
           <mxGeometry x="20.389999999999986" y="135" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WB2bdjvSfxStxlEtaME6-18" value="service catalog" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WB2bdjvSfxStxlEtaME6-1" vertex="1">
-          <mxGeometry x="95" y="180" width="90" height="30" as="geometry" />
+          <mxGeometry x="101" y="165" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WB2bdjvSfxStxlEtaME6-4" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.github" parent="1" vertex="1">
           <mxGeometry x="260" y="50" width="60" height="60" as="geometry" />
